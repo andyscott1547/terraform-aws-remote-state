@@ -213,5 +213,8 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| bucket | n/a |
+| bucket_arn | ARN of bucket created for terraform state |
+| bucket_name | Name of bucket created for terraform state |
+| table_arn | ARN of dynamodb table created for terraform state |
+| table_name | Name of dynamodb table created for terraform state |
 <!-- END_TF_DOCS -->
