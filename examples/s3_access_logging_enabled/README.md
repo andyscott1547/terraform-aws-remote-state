@@ -1,6 +1,6 @@
 # S3 Access Logging Enabled Example
 
-## Usuage 
+## Usage 
 
 ```terraform
 module "tf_state" {

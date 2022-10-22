@@ -1,6 +1,6 @@
 # Basic Example
 
-## Usuage 
+## Usage 
 
 ```terraform
 module "tf_state" {
