@@ -5,7 +5,7 @@
 ```terraform
 module "tf_state" {
   source  = "andyscott1547/remote-state/aws"
-  version = "1.2.0"
+  version = "1.2.1"
   name    = "tf-state-bucket"
 }
 ```
